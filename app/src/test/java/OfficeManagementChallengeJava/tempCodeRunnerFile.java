@@ -1,0 +1,1 @@
+        // assertNotNull("newMeetingRoom is a MeetingRoom class", newMeetingRoom());
