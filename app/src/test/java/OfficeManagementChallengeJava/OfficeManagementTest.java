@@ -6,8 +6,9 @@ import static org.junit.Assert.assertEquals;
 public class OfficeManagementTest {
 
     @Test
-    public void testOfficeManagementClass() {
-        OfficeManagement newOfficeManagement = new OfficeManagement();
+    public void testAddingRoom() {
+    
+     assertEquals("AddingTestRoom", "TestRoom1", addRoom("TestRoom1");
 
     }
 }
