@@ -25,8 +25,5 @@ public class OfficeManagement {
 
     public static void main(String[] args) {
 
-        addRoom("Test1");
-        addRoom("Test2");
-        listOfRooms();
     }
 }
